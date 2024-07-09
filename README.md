@@ -1,2 +1,6 @@
-# KeyLogger
-A keylogger, short for "keystroke logger," is a type of software or hardware device that records the keystrokes typed on a keyboard
+How to use 
+First install the library pynput in your designated folder 
+Then maybe your windows firewll will prevent the file to run 
+Add an exclusion to this file 
+Run the file 
+Give a Grin
